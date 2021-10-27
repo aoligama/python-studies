@@ -1,4 +1,4 @@
-# Python Studies
+# 📔 Python Studies
 
 This repo contains all exercises that I'm doing and will do during graduation, using Python.
 
