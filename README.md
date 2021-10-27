@@ -9,3 +9,9 @@ This repo contains all exercises that I'm doing and will do during graduation, u
 - [Transactions Calculator](https://github.com/aoligama/python-studies/blob/main/transactions.py)
 - [Counting of Votes](https://github.com/aoligama/python-studies/blob/main/votes.py)
 - [iFood Rank](https://github.com/aoligama/python-studies/blob/main/iFood_rank.py)
+
+## 🤖 Contributing
+Pull requests, suggestions and tips are welcome, but don't be a jerk 💀.
+
+## ⚖️ License
+[MIT](https://choosealicense.com/licenses/mit/)
